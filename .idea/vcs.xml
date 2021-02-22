@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lippia-API-sample-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lippia-mobile-sample-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lippia-web-sample-project" vcs="Git" />
+  </component>
+</project>
